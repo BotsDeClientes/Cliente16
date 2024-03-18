@@ -112,7 +112,7 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51920145986", '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', 1], 
+["51920145986", '𝗕𝗼𝘁 𝗗𝗲 𝗝𝗮𝘃𝗶𝗲𝗿 🏴‍☠️', 1], 
 ["51920145986", '𝗗𝗶𝗼𝘀 𝗦𝗲𝘅 🐧', 1]]
 
 global.mail = '' // Add email
